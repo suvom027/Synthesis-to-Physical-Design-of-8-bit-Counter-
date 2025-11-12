@@ -38,7 +38,7 @@ The RTL description was successfully converted into a **gate-level netlist**, me
 | **Leakage Power** | 23.165 nW |
 
 <p align="center">
-  <img src="report/pic/Synthesis.png" width="750" alt="Gate-Level Schematic after Synthesis">
+ <img width="624" height="323" alt="Image" src="https://github.com/user-attachments/assets/1ab52b46-12ca-4570-9e36-e61a5077c7f9" />
 </p>
 
 **Analysis:**  
@@ -69,7 +69,7 @@ The **Physical Design** was carried out in **Cadence Innovus**, following the st
 - Design Rule Check (DRC) passed successfully.
 
 <p align="center">
-  <img src="report/pic/phydesign.png" width="800" alt="Physical Design Layout (Floorplan, Placement, Routing)">
+ <img width="683" height="484" alt="Image" src="https://github.com/user-attachments/assets/64169ebc-e6c3-4a5b-815a-1f6e7fa07649" />
 </p>
 
 **Observation:**  
@@ -86,14 +86,14 @@ Verification was performed to ensure the final layout was **error-free and fabri
 All geometrical design rules were verified and passed successfully.
 
 <p align="center">
-  <img src="report/pic/Geometry Verification.png" width="700" alt="DRC Clean Verification">
+<img width="528" height="239" alt="Image" src="https://github.com/user-attachments/assets/6c88d612-6069-4c46-8624-7f366ac88e7c" />
 </p>
 
 ### 🔸 Connectivity Verification (LVS)
 The layout and schematic were compared to confirm logical connectivity consistency.
 
 <p align="center">
-  <img src="report/pic/Connectivity Verification.png" width="700" alt="LVS Clean Verification">
+<img width="404" height="204" alt="Image" src="https://github.com/user-attachments/assets/e36ff6aa-43b9-4809-8976-804cb4ce3ee3" />
 </p>
 
 **Verification Summary:**
